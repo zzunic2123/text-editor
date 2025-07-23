@@ -1,0 +1,14 @@
+C:\faks\OOUP\3.labos\TextEditor\TextEditor\bin\Debug\net8.0-windows\TextEditor.exe
+C:\faks\OOUP\3.labos\TextEditor\TextEditor\bin\Debug\net8.0-windows\TextEditor.deps.json
+C:\faks\OOUP\3.labos\TextEditor\TextEditor\bin\Debug\net8.0-windows\TextEditor.runtimeconfig.json
+C:\faks\OOUP\3.labos\TextEditor\TextEditor\bin\Debug\net8.0-windows\TextEditor.dll
+C:\faks\OOUP\3.labos\TextEditor\TextEditor\bin\Debug\net8.0-windows\TextEditor.pdb
+C:\faks\OOUP\3.labos\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\faks\OOUP\3.labos\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.AssemblyInfoInputs.cache
+C:\faks\OOUP\3.labos\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.AssemblyInfo.cs
+C:\faks\OOUP\3.labos\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.csproj.CoreCompileInputs.cache
+C:\faks\OOUP\3.labos\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.dll
+C:\faks\OOUP\3.labos\TextEditor\TextEditor\obj\Debug\net8.0-windows\refint\TextEditor.dll
+C:\faks\OOUP\3.labos\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.pdb
+C:\faks\OOUP\3.labos\TextEditor\TextEditor\obj\Debug\net8.0-windows\TextEditor.genruntimeconfig.cache
+C:\faks\OOUP\3.labos\TextEditor\TextEditor\obj\Debug\net8.0-windows\ref\TextEditor.dll

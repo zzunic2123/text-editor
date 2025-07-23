@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor", "TextEditor\TextEditor.csproj", "{EAF6277B-C36C-4899-AC17-64C560EFC5B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins", "Plugins\Plugins.csproj", "{9E4C33AA-F19E-4053-9257-8AF48137D576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalLetter", "CapitalLetter\CapitalLetter.csproj", "{DB0064D0-CB3D-4455-AD69-667896EDB0EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF6277B-C36C-4899-AC17-64C560EFC5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF6277B-C36C-4899-AC17-64C560EFC5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF6277B-C36C-4899-AC17-64C560EFC5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF6277B-C36C-4899-AC17-64C560EFC5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4C33AA-F19E-4053-9257-8AF48137D576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4C33AA-F19E-4053-9257-8AF48137D576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4C33AA-F19E-4053-9257-8AF48137D576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4C33AA-F19E-4053-9257-8AF48137D576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB0064D0-CB3D-4455-AD69-667896EDB0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0064D0-CB3D-4455-AD69-667896EDB0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0064D0-CB3D-4455-AD69-667896EDB0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0064D0-CB3D-4455-AD69-667896EDB0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
